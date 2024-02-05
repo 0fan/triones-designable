@@ -11,6 +11,7 @@
     "clean": "lerna clean",
     "build": "lerna run build",
     "preversion": "yarn run build",
+    "version": "lerna version --force-publish=* --preid beta --yes",
     "version:beta": "lerna version prerelease --preid beta",
     "release:github": "ts-node scripts/release release",
     "release:force": "lerna publish from-package --yes",
