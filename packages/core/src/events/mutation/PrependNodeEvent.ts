@@ -1,4 +1,4 @@
-import { ICustomEvent } from '@trionesdev/designable-shared'
+import { ICustomEvent } from '@0fan/designable-shared'
 import { AbstractMutationNodeEvent } from './AbstractMutationNodeEvent'
 
 export class PrependNodeEvent

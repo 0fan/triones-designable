@@ -1,8 +1,8 @@
-import {DnFC} from "@trionesdev/designable-react";
+import {DnFC} from "@0fan/designable-react";
 import {BaseNode} from "./BaseNode";
-import {createBehavior, createResource} from "@trionesdev/designable-core";
+import {createBehavior, createResource} from "@0fan/designable-core";
 import React from "react";
-import {uid} from "@trionesdev/designable-shared";
+import {uid} from "@0fan/designable-shared";
 import _ from "lodash";
 
 export const FlinkSqlNode: DnFC<React.ComponentProps<typeof BaseNode>> = _.cloneDeep(BaseNode)

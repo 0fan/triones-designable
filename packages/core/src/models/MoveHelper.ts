@@ -8,7 +8,7 @@ import {
   isPointInRect,
   IPoint,
   Rect,
-} from '@trionesdev/designable-shared'
+} from '@0fan/designable-shared'
 import { DragNodeEvent, DropNodeEvent } from '../events'
 import { Viewport } from './Viewport'
 import { CursorDragType } from './Cursor'

@@ -1,4 +1,4 @@
-import { GlobalRegistry } from '@trionesdev/designable-core'
+import { GlobalRegistry } from '@0fan/designable-core'
 import icons from './icons'
 import panels from './panels'
 import global from './global'

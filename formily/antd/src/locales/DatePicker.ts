@@ -1,4 +1,4 @@
-import { createLocales } from '@trionesdev/designable-core'
+import { createLocales } from '@0fan/designable-core'
 
 export const DatePicker = {
   'zh-CN': {

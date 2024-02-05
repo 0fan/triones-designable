@@ -16,7 +16,7 @@
     "baseUrl": "./",
     "allowSyntheticDefaultImports": true,
     "paths": {
-      "@trionesdev/*": ["../*/src"]
+      "@0fan/*": ["../*/src"]
     }
   }
 }

@@ -5,7 +5,7 @@ import {
   isCrossRectInRect,
   isRectInRect,
   Point, Rect,
-} from '@trionesdev/designable-shared'
+} from '@0fan/designable-shared'
 
 export const useFreeSelectionEffect = (engine: Engine) => {
   engine.subscribeTo(DragStopEvent, (event) => {

@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {useField, observer} from '@formily/react'
-import {usePrefix, IconWidget, useCssInJs} from '@trionesdev/designable-react'
+import {usePrefix, IconWidget, useCssInJs} from '@0fan/designable-react'
 import cls from 'classnames'
 import {genCollapseItemStyle} from "./styles";
 

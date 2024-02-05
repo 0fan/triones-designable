@@ -2,7 +2,7 @@ import {Space} from "antd";
 import {connect} from "@formily/react";
 import {Graph} from "@antv/x6";
 import {FC} from "react";
-import {IconWidget} from "@trionesdev/designable-flow";
+import {IconWidget} from "@0fan/designable-flow";
 
 type BaseNodeProps = {
     data?: any,

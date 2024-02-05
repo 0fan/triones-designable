@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react'
 import { Button } from 'antd'
-import {usePrefix, IconWidget, useCssInJs} from '@trionesdev/designable-react'
+import {usePrefix, IconWidget, useCssInJs} from '@0fan/designable-react'
 import cls from 'classnames'
 import {genPolyInputStyle} from "./styles";
 // import './styles.less'

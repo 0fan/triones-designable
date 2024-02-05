@@ -1,5 +1,5 @@
 {
-  "name": "@trionesdev/designable-core",
+  "name": "@0fan/designable-core",
   "version": "0.0.2-beta.0",
   "description": "",
   "main": "dist/index.js",
@@ -30,7 +30,7 @@
     "react": "^18.2.0"
   },
   "dependencies": {
-    "@trionesdev/designable-shared": "^0.0.2-beta.0",
+    "@0fan/designable-shared": "^0.0.2-beta.0",
     "@formily/path": "^2.2.29",
     "@formily/reactive": "^2.2.29",
     "@juggle/resize-observer": "^3.4.0"

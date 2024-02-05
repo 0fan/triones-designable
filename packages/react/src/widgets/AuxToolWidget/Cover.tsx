@@ -7,7 +7,7 @@ import {
   usePrefix, useToken,
 } from '../../hooks'
 import { observer } from '@formily/reactive-react'
-import { CursorStatus, ClosestPosition, TreeNode } from '@trionesdev/designable-core'
+import { CursorStatus, ClosestPosition, TreeNode } from '@0fan/designable-core'
 import cls from 'classnames'
 interface ICoverRectProps {
   node: TreeNode

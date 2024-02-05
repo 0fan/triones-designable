@@ -1,5 +1,5 @@
-import { AppendNodeEvent, TreeNode } from '@trionesdev/designable-core'
-import { useDesigner } from '@trionesdev/designable-react'
+import { AppendNodeEvent, TreeNode } from '@0fan/designable-core'
+import { useDesigner } from '@0fan/designable-react'
 import { matchComponent, matchChildComponent } from '../shared'
 
 export const useDropTemplate = (

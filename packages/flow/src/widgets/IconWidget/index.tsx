@@ -1,11 +1,11 @@
 import React, {createContext, useContext} from 'react'
-import {isStr, isFn, isObj} from '@trionesdev/designable-shared'
+import {isStr, isFn, isObj} from '@0fan/designable-shared'
 import {observer} from '@formily/reactive-react'
 import {Tooltip, TooltipProps} from 'antd'
 import cls from 'classnames'
 import {genIconWidgetStyle} from "./styles";
-import {useCssInJs} from "@trionesdev/designable-react";
-import {GlobalRegistry} from "@trionesdev/designable-core";
+import {useCssInJs} from "@0fan/designable-react";
+import {GlobalRegistry} from "@0fan/designable-core";
 
 const IconContext = createContext<IconProviderProps>(null)
 

@@ -4,7 +4,7 @@ import {
   IPoint,
   calcOffsetOfSnapLineSegmentToEdge,
   Rect,
-} from '@trionesdev/designable-shared'
+} from '@0fan/designable-shared'
 import { TreeNode } from './TreeNode'
 import { TransformHelper } from './TransformHelper'
 

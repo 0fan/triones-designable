@@ -11,14 +11,14 @@ import {
 } from '@formily/react'
 import { FormItem } from '@formily/antd-v5'
 import { each, reduce } from '@formily/shared'
-import { createBehavior } from '@trionesdev/designable-core'
+import { createBehavior } from '@0fan/designable-core'
 import {
   useDesigner,
   useTreeNode,
   useComponents,
   DnFC,
-} from '@trionesdev/designable-react'
-import { isArr, isStr } from '@trionesdev/designable-shared'
+} from '@0fan/designable-react'
+import { isArr, isStr } from '@0fan/designable-shared'
 import { Container } from '../../common/Container'
 import { AllLocales } from '../../locales'
 import React from 'react'

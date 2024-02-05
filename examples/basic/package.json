@@ -1,5 +1,5 @@
 {
-  "name": "@trionesdev/designable-basic-example",
+  "name": "@0fan/designable-basic-example",
   "version": "0.0.2-beta.0",
   "private": true,
   "dependencies": {
@@ -21,12 +21,12 @@
     "web-vitals": "^2.1.0"
   },
   "devDependencies": {
-    "@trionesdev/designable-core": "0.0.2-beta.0",
-    "@trionesdev/designable-formily-antd": "^0.0.2-beta.0",
-    "@trionesdev/designable-formily-transformer": "^0.0.2-beta.0",
-    "@trionesdev/designable-react": "^0.0.2-beta.0",
-    "@trionesdev/designable-react-settings-form": "^0.0.2-beta.0",
-    "@trionesdev/designable-shared": "^0.0.2-beta.0",
+    "@0fan/designable-core": "0.0.2-beta.0",
+    "@0fan/designable-formily-antd": "^0.0.2-beta.0",
+    "@0fan/designable-formily-transformer": "^0.0.2-beta.0",
+    "@0fan/designable-react": "^0.0.2-beta.0",
+    "@0fan/designable-react-settings-form": "^0.0.2-beta.0",
+    "@0fan/designable-shared": "^0.0.2-beta.0",
     "@ant-design/cssinjs": "^1.16.1",
     "@formily/antd-v5": "^1.1.0",
     "@formily/core": "^2.2.27",

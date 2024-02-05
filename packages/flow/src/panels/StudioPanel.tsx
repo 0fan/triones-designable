@@ -1,4 +1,4 @@
-import {useCssInJs} from "@trionesdev/designable-react";
+import {useCssInJs} from "@0fan/designable-react";
 import {genStudioPanelStyle} from "./styles";
 import cls from "classnames";
 import React, {FC} from "react";

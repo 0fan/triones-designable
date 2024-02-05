@@ -1,4 +1,4 @@
-import { ICustomEvent } from '@trionesdev/designable-shared'
+import { ICustomEvent } from '@0fan/designable-shared'
 import { ITreeNode, TreeNode } from '../../models'
 import { IEngineContext } from '../../types'
 

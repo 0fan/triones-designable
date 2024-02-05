@@ -1,5 +1,5 @@
 import React from 'react'
-import {TreeNode} from '@trionesdev/designable-core'
+import {TreeNode} from '@0fan/designable-core'
 import {observer} from '@formily/reactive-react'
 import {IconWidget} from '../IconWidget'
 import {useDesigner, usePrefix, useToken} from '../../hooks'

@@ -1,8 +1,8 @@
 import React, {Fragment} from 'react'
 import {useTransformHelper, useCursor, usePrefix, useToken} from '../../hooks'
 import {observer} from '@formily/reactive-react'
-import {CursorStatus} from '@trionesdev/designable-core'
-import {ILineSegment, calcRectOfAxisLineSegment} from '@trionesdev/designable-shared'
+import {CursorStatus} from '@0fan/designable-core'
+import {ILineSegment, calcRectOfAxisLineSegment} from '@0fan/designable-shared'
 import cls from "classnames";
 
 export const SpaceBlock:React.FC = observer(() => {

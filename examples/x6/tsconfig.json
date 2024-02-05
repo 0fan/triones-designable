@@ -30,16 +30,16 @@
     "paths": {
 //      "@alkaid/*": ["../../packages/*", "../../formily/*"],
 //      "@alkaid/shared": ["src/alkaid/shared"],
-      "@trionesdev/designable-shared": ["../../packages/shared/src"],
+      "@0fan/designable-shared": ["../../packages/shared/src"],
 //      "@alkaid/core": ["src/alkaid/core"],
-      "@trionesdev/designable-core": ["../../packages/core/src"],
-      "@trionesdev/designable-core/*": ["../../packages/core/src/*"],
+      "@0fan/designable-core": ["../../packages/core/src"],
+      "@0fan/designable-core/*": ["../../packages/core/src/*"],
 //      "@alkaid/react": ["src/alkaid/react"],
-      "@trionesdev/designable-react": ["../../packages/react/src"],
+      "@0fan/designable-react": ["../../packages/react/src"],
 //      "@alkaid/react-settings-form": ["src/alkaid/react-settings-form"],
-      "@trionesdev/designable-react-settings-form": ["../../packages/react-settings-form/src"],
+      "@0fan/designable-react-settings-form": ["../../packages/react-settings-form/src"],
 
-      "@trionesdev/designable-flow": ["../../packages/flow/src"]
+      "@0fan/designable-flow": ["../../packages/flow/src"]
     }
   },
   "include": [

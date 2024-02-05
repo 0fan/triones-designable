@@ -1,8 +1,8 @@
 import React from 'react'
 import {useTransformHelper, useCursor, usePrefix, useToken} from '../../hooks'
 import {observer} from '@formily/reactive-react'
-import {CursorStatus} from '@trionesdev/designable-core'
-import {Rect} from "@trionesdev/designable-shared";
+import {CursorStatus} from '@0fan/designable-core'
+import {Rect} from "@0fan/designable-shared";
 import cls from "classnames";
 
 export const SnapLine:React.FC = observer(() => {

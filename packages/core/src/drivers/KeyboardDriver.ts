@@ -1,4 +1,4 @@
-import { EventDriver } from '@trionesdev/designable-shared'
+import { EventDriver } from '@0fan/designable-shared'
 import { KeyDownEvent, KeyUpEvent } from '../events'
 
 function filter(event: KeyboardEvent) {

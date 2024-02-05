@@ -1,8 +1,8 @@
-import {DnComponent, DnFC, IDesignerComponents} from "@trionesdev/designable-react";
+import {DnComponent, DnFC, IDesignerComponents} from "@0fan/designable-react";
 import React, {FC, useEffect} from "react";
-import {GlobalRegistry} from "@trionesdev/designable-core";
+import {GlobalRegistry} from "@0fan/designable-core";
 import {register} from "@antv/x6-react-shape";
-import {each} from "@trionesdev/designable-shared";
+import {each} from "@0fan/designable-shared";
 import _ from "lodash";
 
 type ComponentsWidgetProps = {

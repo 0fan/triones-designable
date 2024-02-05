@@ -1,4 +1,4 @@
-import {GlobalRegistry} from '@trionesdev/designable-core';
+import {GlobalRegistry} from '@0fan/designable-core';
 import {useEffect, useMemo} from 'react';
 import './App.css';
 import {BatchSyncNode, FlinkSqlNode, FlowNode} from "./nodes";
@@ -11,7 +11,7 @@ import {
     StudioPanel,
     ViewportPanel,
     WorkspacePanel
-} from "@trionesdev/designable-flow";
+} from "@0fan/designable-flow";
 import {Button} from "antd";
 import {FlinkSqlSelect} from "./components/FlinkSqlSelect";
 

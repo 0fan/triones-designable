@@ -1,4 +1,4 @@
-import { TreeNode } from '@trionesdev/designable-core'
+import { TreeNode } from '@0fan/designable-core'
 import React, { createContext } from 'react'
 
 interface INodeContext {
