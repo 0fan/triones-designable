@@ -1,6 +1,6 @@
 {
   "name": "@0fan/designable-x6-example",
-  "version": "0.0.3-beta.2",
+  "version": "0.0.4",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.2.5",
@@ -26,12 +26,12 @@
     "web-vitals": "^2.1.0"
   },
   "devDependencies": {
-    "@0fan/designable-core": "^0.0.3-beta.2",
-    "@0fan/designable-formily-antd": "^0.0.3-beta.2",
-    "@0fan/designable-formily-transformer": "^0.0.3-beta.2",
-    "@0fan/designable-react": "^0.0.3-beta.2",
-    "@0fan/designable-react-settings-form": "^0.0.3-beta.2",
-    "@0fan/designable-shared": "^0.0.3-beta.2",
+    "@0fan/designable-core": "^0.0.4",
+    "@0fan/designable-formily-antd": "^0.0.4",
+    "@0fan/designable-formily-transformer": "^0.0.4",
+    "@0fan/designable-react": "^0.0.4",
+    "@0fan/designable-react-settings-form": "^0.0.4",
+    "@0fan/designable-shared": "^0.0.4",
     "@ant-design/cssinjs": "^1.16.1",
     "@antv/x6": "^2.12.1",
     "@antv/x6-react-shape": "^2.2.2",
