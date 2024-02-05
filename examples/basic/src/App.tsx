@@ -45,7 +45,7 @@ function App() {
 
     return (
         <Designer engine={engine}>
-            <StudioPanel actions={[<Button onClick={handleSave}>保存</Button>]}>
+            <StudioPanel actions={[<Button key='save' onClick={handleSave}>保存</Button>]}>
                 <CompositePanel>
                     <CompositePanel.Item title="panels.Component" icon="Component">
                         <ResourceWidget
