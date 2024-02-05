@@ -1,6 +1,6 @@
 {
   "name": "@0fan/designable-formily-antd",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -29,8 +29,8 @@
   },
   "dependencies": {
     "@0fan/designable-core": "^0.0.4",
-    "@0fan/designable-formily-setters": "^0.0.4",
-    "@0fan/designable-formily-transformer": "^0.0.4",
+    "@0fan/designable-formily-setters": "^0.0.6",
+    "@0fan/designable-formily-transformer": "^0.0.6",
     "@0fan/designable-react": "^0.0.4",
     "@0fan/designable-shared": "^0.0.4",
     "@formily/antd-v5": "^1.1.0",
